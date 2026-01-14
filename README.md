@@ -1,22 +1,22 @@
-# 🌿 Blossom – Plant Care & Discovery App
+# 🌿 Blossom – Bitki Keşif ve Bakım Uygulaması
 
 Blossom, bitki severler için geliştirilmiş bir mobil uygulamadır.  
 Kullanıcılar bitkileri keşfedebilir, favorilerine ekleyebilir ve kendi bitki koleksiyonlarını oluşturabilir.
 
 ---
 
-## 🚀 Features
+## 🚀 Özellikler
 
-- 🌱 **Discover Plants** – Bitkileri keşfetme
-- ❤️ **Favorites** – Favori bitkileri kaydetme
+- 🌱 **Bitki Keşfi (Discover)** – Bitkileri listeleme ve inceleme
+- ❤️ **Favoriler** – Beğenilen bitkileri favorilere ekleme
 - 🪴 **My Plants** – Kendi bitki koleksiyonunu oluşturma
-- 📖 **Plant Detail Pages** – Işık, sulama ve evcil hayvan uyumu bilgileri
-- 🔄 **Redux Toolkit** ile state management
+- 📖 **Detay Sayfaları** – Işık, sulama ve evcil hayvan uyumu bilgileri
+- 🔄 **Redux Toolkit** ile state yönetimi
 - 🔥 **Firebase Firestore** ile veri yönetimi
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Kullanılan Teknolojiler
 
 - **React Native (Expo)**
 - **TypeScript**
@@ -26,7 +26,7 @@ Kullanıcılar bitkileri keşfedebilir, favorilerine ekleyebilir ve kendi bitki 
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Kurulum
 
 ```bash
 npm install
